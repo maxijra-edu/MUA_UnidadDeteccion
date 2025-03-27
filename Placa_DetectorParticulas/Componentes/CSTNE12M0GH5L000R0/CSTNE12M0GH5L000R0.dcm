@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSTNE12M0GH5L000R0
+D Resonators 12.0000MHz 33pF SMD CHP Resntr Tol 0.07%
+K
+F https://www.murata.com/products/productdata/8801160691742/SPEC-CSTNE12M0GH5L000R0.pdf
+$ENDCMP
+#
+#End Doc Library
