@@ -28,4 +28,5 @@
   (lib (name "0A_NXB0108BQ-Q100X")(type "KiCad")(uri "${KIPRJMOD}/Componentes/NXB0108BQ-Q100X/footprints.pretty")(options "")(descr ""))
   (lib (name "0A_ADR5041WBRTZ_R7")(type "KiCad")(uri "${KIPRJMOD}/Componentes/ADR5041WBRTZ_R7/footprints.pretty")(options "")(descr ""))
   (lib (name "LOGO")(type "KiCad")(uri "C:/Users/Maxi/Documents/GitHub/GuaraniSat2_ModuloDetectorParticulas/FIUNA.pretty")(options "")(descr ""))
+  (lib (name "0A_MCP4661T_104E_ML")(type "KiCad")(uri "${KIPRJMOD}/Componentes/MCP4661T_104E_ML/footprints.pretty")(options "")(descr ""))
 )

@@ -27,4 +27,5 @@
   (lib (name "0A_ADR5044WBRTZ-R7")(type "KiCad")(uri "${KIPRJMOD}/Componentes/ADR5044WBRTZ-R7/2024-09-24_20-34-21.kicad_sym")(options "")(descr ""))
   (lib (name "0A_NXB0108BQ-Q100X")(type "KiCad")(uri "${KIPRJMOD}/Componentes/NXB0108BQ-Q100X/2024-09-26_14-26-06.kicad_sym")(options "")(descr ""))
   (lib (name "0A_ADR5041WBRTZ_R7")(type "KiCad")(uri "${KIPRJMOD}/Componentes/ADR5041WBRTZ_R7/2024-12-07_19-08-52.kicad_sym")(options "")(descr ""))
+  (lib (name "0A_MCP4661T_104E_ML")(type "KiCad")(uri "${KIPRJMOD}/Componentes/MCP4661T_104E_ML/2025-07-07_20-56-13.kicad_sym")(options "")(descr ""))
 )
